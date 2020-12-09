@@ -1,0 +1,12 @@
+.name-style{
+    background-color: slateblue;
+    padding: 15px;
+    width: 90%;
+    font-size: 60px;
+    color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
