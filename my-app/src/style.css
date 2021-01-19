@@ -4,9 +4,30 @@
     width: 90%;
     font-size: 60px;
     color: white;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h2-design{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;    
 }
 
 *{
     margin: 0;
     padding: 0;
+}
+
+.card{
+    background-color: aquamarine;
+    border: 1px solid black;
+    padding: 10px;
+    width: 30%;
+    font-family: 'Trebuchet MS';
+    line-height: 1.8;
+}
+
+.card::selection{
+    color: red;
 }
