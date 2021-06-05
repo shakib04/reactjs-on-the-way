@@ -2,7 +2,6 @@
     background-color: slateblue;
     padding: 15px;
     width: 90%;
-    font-size: 60px;
     color: white;
     font-style: italic;
     text-align: center;
@@ -23,11 +22,51 @@
     background-color: aquamarine;
     border: 1px solid black;
     padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
     width: 30%;
     font-family: 'Trebuchet MS';
     line-height: 1.8;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.card-title{
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    margin: 7px;
+    width: 80%;
+    margin: auto;
+}
+
+*{
+    font-family: Consolas;
 }
 
 .card::selection{
     color: red;
+}
+
+.MatchInfo{
+    color: antiquewhite;
+}
+
+.CircResult{
+    color: aquamarine;
+}
+
+button{
+    padding: 14px;
+    margin: 4px;
+    background-color: tomato;
+    font-size: 20px;
+}
+
+input{
+    width: 600px;
+    height: 40px;
+    font-size: 30px;
 }

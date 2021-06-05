@@ -1,0 +1,25 @@
+[
+    {
+        "uniqueId" : 1,
+        "MatchInfo" : "Bangladesh Tour of India 2021, 1st ODI",
+        "teamOne":"India  200-10",
+        "teamTwo": "Bangladesh 204-0",
+        "result":"Bangladesh won by 10 Wickets"
+    },
+
+    {
+        "uniqueId" : 2,
+        "MatchInfo" : "Bangladesh Tour of India 2021, 2nd ODI",
+        "teamOne":"Bangladesh 325-7",
+        "teamTwo": "India  289-8",
+        "result":"Bangladesh won by 36 Runs"
+    },
+
+    {
+        "uniqueId" : 3,
+        "MatchInfo" : "Bangladesh Tour of India 2021, 3rd ODI",
+        "teamOne":"Bangladesh 275-9",
+        "teamTwo": "India  249-10",
+        "result":"Bangladesh won by 26 Runs"
+    }
+]
